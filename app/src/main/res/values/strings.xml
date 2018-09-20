@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CustomViewPractice</string>
+    <string name="title_chapter_1">第1讲 绘制基础</string>
+    <string name="title_chapter_2">第2讲 Paint详解</string>
+    <string name="title_chapter_3">第3讲 drawText()文字的绘制</string>
+    <string name="title_chapter_4">第4讲 Canvas对绘制的辅助</string>
+    <string name="title_chapter_5">第5讲 绘制顺序</string>
+    <string name="title_chapter_6">第6讲 属性动画（上手篇）</string>
+    <string name="title_chapter_7">第7讲 属性动画（进阶篇）</string>
+    <string name="title_chapter_8">第8讲 硬件加速</string>
+
+
+    <string name="url_chapter_1">http://shijiacheng.studio/2018/09/16/custom-view-1/</string>
+    <string name="url_chapter_2">http://shijiacheng.studio/2018/09/17/custom-view-2/</string>
+    <string name="url_chapter_3">http://shijiacheng.studio/2018/09/18/custom-view-3/</string>
+    <string name="url_chapter_4"></string>
+    <string name="url_chapter_5"></string>
+    <string name="url_chapter_6"></string>
+    <string name="url_chapter_7"></string>
+    <string name="url_chapter_8"></string>
+
+</resources>
